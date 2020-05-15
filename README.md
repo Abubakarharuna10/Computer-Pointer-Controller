@@ -62,34 +62,34 @@ model loading time, input/output processing time, model inference time etc.
 ### FP32
 
 **Inference Time** <br/> 
-![inference_time_fp32_image](media/inference_time_fp32.png "Inference Time")
+![inference_time_fp32_image](bin/inference_time_fp32.png "Inference Time")
 
 **Frames per Second** <br/> 
-![fps_fp32_image](media/fps_fp32.png "Frames per Second")
+![fps_fp32_image](bin/fps_fp32.png "Frames per Second")
 
 **Model Loading Time** <br/> 
-![model_loading_time_fp32_image](media/model_loading_time_fp32.png "Model Loading Time")
+![model_loading_time_fp32_image](bin/model_loading_time_fp32.png "Model Loading Time")
 
 ### FP16
 
 **Inference Time** <br/> 
-![inference_time_fp16_image](media/inference_time_fp16.png "Inference Time")
+![inference_time_fp16_image](bin/inference_time_fp16.png "Inference Time")
 
 **Frames per Second** <br/> 
-![fps_fp16_image](media/fps_fp16.png "Frames per Second")
+![fps_fp16_image](bin/fps_fp16.png "Frames per Second")
 
 **Model Loading Time** <br/> 
-![model_loading_time_fp16_image](media/model_loading_time_fp16.png "Model Loading Time")
+![model_loading_time_fp16_image](bin/model_loading_time_fp16.png "Model Loading Time")
 
 ### INT8
 **Inference Time** <br/> 
-![inference_time_int8_image](media/inference_time_int8.png "Inference Time")
+![inference_time_int8_image](bin/inference_time_int8.png "Inference Time")
 
 **Frames per Second** <br/> 
-![fps_int8_image](media/fps_int8.png "Frames per Second")
+![fps_int8_image](bin/fps_int8.png "Frames per Second")
 
 **Model Loading Time** <br/> 
-![model_loading_time_int8_image](media/model_loading_time_int8.png "Model Loading Time")
+![model_loading_time_int8_image](bin/model_loading_time_int8.png "Model Loading Time")
 
 
 ## Results
